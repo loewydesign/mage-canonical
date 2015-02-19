@@ -1,0 +1,12 @@
+<config>
+	<modules>
+		<Loewy_Canonical>
+			<active>false</active>
+			<codePool>community</codePool>
+			
+			<depends>
+				<Mage_Cms />
+			</depends>
+		</Loewy_Canonical>
+	</modules>
+</config>

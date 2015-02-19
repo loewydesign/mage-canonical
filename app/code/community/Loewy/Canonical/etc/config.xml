@@ -1,0 +1,22 @@
+<config>
+	<modules>
+		<Loewy_Canonical>
+			<version>0.1.0</version>
+		</Loewy_Canonical>
+	</modules>
+	
+	<global>
+		<blocks>
+			<loewy_canonical>
+				<class>Loewy_Canonical_Block</class>
+			</loewy_canonical>
+			
+			<!-- override Mage_Cms block -->
+			<cms>
+            	<rewrite>
+					<page>Loewy_Canonical_Block_Cms_Page</page>
+	            </rewrite>
+            </cms>
+		</blocks>
+	</global>
+</config>
