@@ -3,7 +3,6 @@
 		<Loewy_Canonical>
 			<active>true</active>
 			<codePool>community</codePool>
-			
 			<depends>
 				<Mage_Cms />
 			</depends>

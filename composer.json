@@ -1,0 +1,10 @@
+{
+	"name": "loewydesign/mage-canonical",
+	"license": "GPLv3",
+	"type": "magento-module",
+	"description": "Canonical link tags for Magento modules that do not support them out of the box.",
+	"keywords": ["magento"],
+	"require": {
+		"magento-hackathon/magento-composer-installer": "*"
+	}
+}
